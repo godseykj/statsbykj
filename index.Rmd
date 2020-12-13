@@ -2,7 +2,8 @@
 title: "Home"
 author: "Kara Godsey"
 date: "12/13/2020"
-output: html_document
+output: 
+  rmdformats::material
 ---
 
 ```{r setup, include=FALSE}
