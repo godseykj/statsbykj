@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "statsbykj"
 author: "Kara Godsey"
 date: "12/13/2020"
 output: 
@@ -12,11 +12,41 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Welcome
 
-This website is meant to give info about me.
+I am a graduate student at Bowling Green State University studying Applied Statistics. In May 2020, I earned a bachelor's degree in Mathematics and Actuarial Science from Grace College.
 
-# Articles
+\
+
+I have a passion for the intersection of math and sports, and hope to make a career in the sports world one day. My preferred sport is baseball, but college football, hockey, and golf are also pretty high on my list.
+
+\
+
+![](pic.JPG){width=50%,height=50%}
+
+# Articles {.tabset .tabset-fade .tabset-pills}
 
 This section will hold links to my Diamond Digest articles, as well as future articles for Softball America.
+
+## Diamond Digest
+
+I joined the staff of Diamond Digest in July 2020, primarily providing news and analysis related to the Miami Marlins. Below are a few examples of my work:  
+
+\
+
+[Pablo Lopez: The Breakout Arm No One Saw Coming](https://diamond-digest.com/2020/09/03/pablo-lopez-the-breakout-arm-no-one-saw-coming/)
+
+[Offseason Outlook: Miami Marlins](https://diamond-digest.com/2020/11/17/offseason-outlook-miami-marlins/)
+
+[NLDS Preview: Familiar Foe for the Fish](https://diamond-digest.com/2020/10/06/nlds-preview-familiar-foe-for-the-fish/)
+
+\
+
+## Softball America
+
+In January 2021, I will begin an internship with Softball America, providing weekly content that includes features, profiles, and rankings. Check back soon for examples of my work.
+
+\
+
+
 
 # Projects
 
