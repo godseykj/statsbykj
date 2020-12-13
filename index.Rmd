@@ -1,0 +1,14 @@
+---
+title: "Home"
+author: "Kara Godsey"
+date: "12/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Welcome
+
+This website is meant to give info about me.
