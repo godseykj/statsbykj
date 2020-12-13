@@ -13,3 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 # Welcome
 
 This website is meant to give info about me.
+
+# Articles
+
+This section will hold links to my Diamond Digest articles, as well as future articles for Softball America.
+
+# Projects
+
+This section will hold links to past projects, most notably the Crossroads Baseball project.
