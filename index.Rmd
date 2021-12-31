@@ -58,4 +58,8 @@ I joined the staff of Diamond Digest in July 2020, primarily providing news and 
 
 # Projects
 
-This section will hold links to past projects, most notably the Crossroads Baseball project.
+Crossroads League Baseball Project
+
+```{r out.width="100%", out.height="500"}
+knitr::include_graphics('kjgod\OneDrive\Documents\Resumes\index.html')
+```
